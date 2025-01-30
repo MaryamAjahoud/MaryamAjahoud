@@ -34,9 +34,9 @@
 
 ## 📫 Contact
 
-📧 Email : maryamajahoud134@gmail.com
-🔗 LinkedIn : 
-📂 GitHub : https://github.com/MaryamAjahoud
+- Email : maryamajahoud134@gmail.com
+- LinkedIn : 
+- GitHub : https://github.com/MaryamAjahoud
 
 N'hésitez pas à me contacter pour échanger sur des projets ou des collaborations ! 🚀
 
