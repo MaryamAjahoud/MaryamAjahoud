@@ -1,10 +1,15 @@
 # Hello, I'm Maryam Ajahoud
 
+---
+
 ## 📌 À Propos de Moi
 
  👩‍🎓 Étudiante en Master Data Science Passionnée par l'intelligence artificielle, l'analyse de données et le développement de solutions innovantes, je me spécialise dans le machine learning, le deep learning et le traitement du langage naturel (NLP). Mon objectif est d'explorer et d'optimiser les modèles d'IA pour résoudre des problématiques complexes.
 
+---
+
 ## 🛠️ Compétences Techniques
+
 
 ### 🔹 Langages de Programmation
 
@@ -25,9 +30,9 @@
 
   - Big Data : Apache Spark, Hadoop, HDFS
 
+---
 
-
-📫 Contact
+## 📫 Contact
 
 📧 Email : maryamajahoud134@gmail.com
 🔗 LinkedIn : 
